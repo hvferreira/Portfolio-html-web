@@ -661,7 +661,8 @@ section {
 
 .main-btn {
   border-radius: 30px;
-  color: inherit;
+  /* color: inherit; */
+  color: #dbe1e8;
   font-weight: 600;
   position: relative;
   border: 1px solid var(--color-secondary);
